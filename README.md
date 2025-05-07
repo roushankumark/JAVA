@@ -1,6 +1,6 @@
 # JAVA
 
-  <h2e>DSA in Java - Chapter Wise Questions & Solutions</h2>
+  <h2>DSA in Java - Chapter Wise Questions & Solutions</h2>
 
 <body>
 
