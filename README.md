@@ -1,47 +1,7 @@
 # JAVA
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
   <title>DSA in Java - Chapter Wise Questions & Solutions</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f4f4f9;
-      color: #333;
-      padding: 30px;
-      line-height: 1.6;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-    }
-    li {
-      background: #ffffff;
-      margin: 10px 0;
-      padding: 12px 18px;
-      border-left: 5px solid #2980b9;
-      border-radius: 5px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-      transition: transform 0.2s;
-    }
-    li:hover {
-      transform: translateX(5px);
-    }
-    a {
-      text-decoration: none;
-      color: #2980b9;
-      font-weight: bold;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
+
 <body>
 
   <h1>Chapter-wise DSA Questions and Solutions in Java</h1>
@@ -64,6 +24,5 @@
   </ul>
 
 </body>
-</html>
 
 
