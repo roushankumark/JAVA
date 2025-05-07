@@ -1,8 +1,5 @@
 # JAVA
 
-  <h2>DSA in Java - Chapter Wise Questions & Solutions</h2>
-
-<body>
 
   <h1>Chapter-wise DSA Questions and Solutions in Java</h1>
   <p>Learn Data Structures and Algorithms step by step with clear explanations and practical Java examples:</p>
@@ -23,6 +20,5 @@
     <li><a href="https://github.com/roushankumark/JAVA/tree/main/LinkedListII" target="_blank">21. Linked List II</a></li>
   </ul>
 
-</body>
 
 
