@@ -1,0 +1,31 @@
+Use the following methods of the Math class in Java:
+ a. Math.min( )
+ b. Math.max( )
+ c. Math.sqrt( )
+ d. Math.pow( )
+ e. Math.avg( )
+ f.  Math.abs( )
+
+
+ 1. Math.min(a, b): Returns the smaller of two values. It supports types like int, long, float, and double. Example:
+   System.out.println(Math.min(10, 20)); // Output: 10
+
+
+2. Math.max(a, b): Returns the larger of two values. It works similarly to Math.min. Example:
+   System.out.println(Math.max(10, 20)); // Output: 20
+
+
+3. Math.sqrt(x): Returns the square root of a number. The input must be a non-negative double. Example:
+   System.out.println(Math.sqrt(16)); // Output: 4.0
+
+
+4. Math.pow(a, b): Calculates the value of the first argument raised to the power of the second. Example:
+   System.out.println(Math.pow(2, 3)); // Output: 8.0
+
+
+5. Math.abs(x): Returns the absolute value of the input (positive value of a number). It supports int, long, float, and double. Example:
+   System.out.println(Math.abs(-10)); // Output: 10
+
+
+6. Math.avg(): This method does not exist in the Java Math class. To calculate an average, you can manually compute it:
+   double avg = (a + b + c) / 3.0;
