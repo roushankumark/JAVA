@@ -21,7 +21,7 @@
 
 
 
-  <h2> More topics are coming soon — I’ll be uploading them shortly </h2>
+  <h2> More topics are coming soon — I’ll be uploading them shortly ༄ </h2>
 
 
 
