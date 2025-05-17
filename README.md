@@ -1,8 +1,8 @@
-# ♛ JAVAᯓ★                      ˗ˏˋ ★ ˎˊ˗         ⋆༺𓆩☠︎︎𓆪༻⋆
+# ♛ JAVAᯓ★                      ˗ˏˋ ★ ˎˊ˗       𓇢𓆸  𓆩♡𓆪  
 
 
   <h1>╰›Chapter-wise DSA Questions and Solutions in Java.☘︎ ݁˖</h1>
-  <p>╰┈➤Learn Data Structures and Algorithms step by step with clear explanations and practical Java examples: 𓇢𓆸 𓆩♡𓆪</p>
+  <p>★➤Learn Data Structures and Algorithms step by step with clear explanations and practical Java examples:☄ </p>
 
 - ˋ°•*⁀➷[1. Variables And Data Types](https://github.com/roushankumark/JAVA/tree/main/VariablesAndDataTypes)
 - ˋ°•*⁀➷[2. Operators](https://github.com/roushankumark/JAVA/tree/main/Operators)
