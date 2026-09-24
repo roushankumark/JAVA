@@ -17,7 +17,7 @@
 [17. Divide And Conquer](https://github.com/roushankumark/JAVA/tree/main/DivideAndConquer) \
 [19. Backtracking](https://github.com/roushankumark/JAVA/tree/main/Backtracking) \
 [20. Linked List I](https://github.com/roushankumark/JAVA/tree/main/LinkedList) \
-[21. Linked List II](https://github.com/roushankumark/JAVA/tree/main/LinkedListII) \
+[21. Linked List II](https://github.com/roushankumark/JAVA/tree/main/LinkedListII) 
 
 
 
